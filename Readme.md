@@ -3,7 +3,7 @@
 
 # Basic Git Commands that i need
 
-"ls to see where u are"
+ls to see where u are
 then go to git directory by cd *foldername*
 then git status 
 
@@ -22,3 +22,5 @@ to add new file to track
 
 
 git add . (to add all the files ever changed to git push)
+
+### dont forget to git push to update on website
